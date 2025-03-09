@@ -1,0 +1,20 @@
+pandas
+scikit-learn
+numpy
+matplotlib
+seaborn
+missingno
+xgboost
+lightgbm
+catboost
+scipy
+notebook
+mlflow
+pydantic
+fastapi
+uvicorn
+pyYAML
+python-dotenv
+ensure
+tdqm
+-e .
