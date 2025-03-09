@@ -17,4 +17,8 @@ pyYAML
 python-dotenv
 ensure
 tdqm
+ensure
+types-PyYAML
+python-box
+joblib
 -e .
