@@ -1,0 +1,5 @@
+artifacts_root: artifacts
+
+data_ingestion:
+  data_source: 
+  
