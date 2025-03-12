@@ -1,5 +1,8 @@
-artifacts_root: artifacts
+artifacts_root: "artifacts"
 
 data_ingestion:
-  data_source: 
+  data_ingest_root: "artifacts/data_ingest"
+  data_source: "C:\\Users\\souss\\OneDrive\\Desktop\\Mlops\\Intrusion-detection-system\\notebooks\\Data\\data.csv"
+  train_data_path: "artifacts/data_ingest/train.csv"
+  test_data_path: "artifacts/data_ingest/test.csv"
   

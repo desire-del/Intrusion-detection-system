@@ -21,4 +21,5 @@ ensure
 types-PyYAML
 python-box
 joblib
--e .
+zenml[server]
+#-e .
